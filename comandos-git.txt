@@ -1,3 +1,27 @@
 Lista de Comandos Git Aprendidos:
 git init - Inicializa um repositório Git
 ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== RESOLUÇÃO DE CONFLITOS === git merge <branch> - Faz merge de uma branch (pode gerar conflitos) Quando há conflito: editar arquivo, remover marcações, git add, git commit
