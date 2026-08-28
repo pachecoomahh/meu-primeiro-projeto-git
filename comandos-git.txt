@@ -1,4 +1,4 @@
-Lista de Comandos Git Aprendidos:
+Lista COMPLETA de Comandos Git Aprendidos:
 git init - Inicializa um repositorio Git
 git clone - Clona um repositorio remoto
 git add - Adiciona arquivos a area de staging
