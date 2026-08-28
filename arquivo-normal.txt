@@ -1,0 +1,1 @@
+este é um arquivo normal para teste do .gitignore
